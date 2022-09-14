@@ -5,7 +5,7 @@ const Node = function (val) {
   this.val = val;
   this.left = null;
   this.right = null;
-};
+}
 
 function treeIncludes(root, target) {
   if (root === null) return false;
