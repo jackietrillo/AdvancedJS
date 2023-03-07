@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\sorting\\quickSort.js"
+            "program": "${workspaceFolder}\\problems\\longestConsecutive.js"
         }
     ]
 }
